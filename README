@@ -1,0 +1,5 @@
+Renju
+developing environment: gcc 4.1.1 and gtk 2.0
+os: red hat 5
+notes: There is still a bug that sometimes computer doesn't put  chessman after player does.
+email: dreaimx@gmail.com
